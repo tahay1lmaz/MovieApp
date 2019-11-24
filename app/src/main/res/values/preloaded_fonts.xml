@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/atomic_age</item>
+        <item>@font/audiowide</item>
+        <item>@font/bangers</item>
+        <item>@font/condiment</item>
+        <item>@font/faster_one</item>
+        <item>@font/frijole</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/jolly_lodger</item>
+        <item>@font/kavoon</item>
+        <item>@font/knewave</item>
+        <item>@font/modak</item>
+    </array>
+</resources>
